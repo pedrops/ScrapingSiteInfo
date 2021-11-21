@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebScraper", "WebScraper\WebScraper.csproj", "{AA731C04-4904-45E7-8452-23C5DF09D161}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebScraperTests", "WebScraperTests\WebScraperTests.csproj", "{164F2D53-88DC-4A43-9F76-98DA8FA7B633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA731C04-4904-45E7-8452-23C5DF09D161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA731C04-4904-45E7-8452-23C5DF09D161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA731C04-4904-45E7-8452-23C5DF09D161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA731C04-4904-45E7-8452-23C5DF09D161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164F2D53-88DC-4A43-9F76-98DA8FA7B633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164F2D53-88DC-4A43-9F76-98DA8FA7B633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164F2D53-88DC-4A43-9F76-98DA8FA7B633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164F2D53-88DC-4A43-9F76-98DA8FA7B633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3051A9F5-3746-4908-A6ED-345F90AD2C94}
+	EndGlobalSection
+EndGlobal

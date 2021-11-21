@@ -1,0 +1,9 @@
+CREATE TABLE [WoodCompanies](
+	[companyName] [varchar](500) NULL,
+	[companyDescription] text NULL,
+	[companyAddress] [varchar](500) NULL,
+	[companyPhone] [varchar](500) NULL,
+	[companyFax] [varchar](500) NULL,
+	[companyEmail] [varchar](500) NULL,
+	[companyWebsite] [varchar](500) NULL,
+	[companyContactPerson] [varchar](500) NULL)
